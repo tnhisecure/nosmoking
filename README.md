@@ -1,0 +1,2 @@
+# nosmoking
+only css
